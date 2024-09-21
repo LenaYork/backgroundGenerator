@@ -1,24 +1,7 @@
-# bggenerator
+##
+Background image generator
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Step 1: Choose 3 colors
+Step 2: Click "Generate pattern"
+Step 3: If you like the image, click "Download pattern"
+otherwise - go back to step 1
